@@ -1,2 +1,2 @@
 # Mind-Map-DataScience
-Mind map of data science for reference
+Mind map and Fishbone diagram for reference
